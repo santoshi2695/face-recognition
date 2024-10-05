@@ -1,0 +1,14 @@
+body , .logo{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(90deg, rgb(216, 24, 220),#00e1ff);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button {
+  cursor: pointer;
+}
